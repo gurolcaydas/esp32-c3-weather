@@ -1,0 +1,4 @@
+# Wi-Fi passwords and API key — copy secrets.example.py to secrets.py
+secrets.py
+__pycache__/
+.DS_Store
