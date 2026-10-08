@@ -1,6 +1,6 @@
 # Copy to secrets.py and fill in. secrets.py is git-ignored.
 
-# Networks to try, in order.
+# Known networks. The board joins whichever one has the strongest signal.
 WIFI_NETWORKS = [
     ("your-ssid", "your-password"),
 ]
